@@ -8,7 +8,9 @@ To design a half adder and half subtractor circuit and verify its truth table in
 
 **Equipments Required:**
 
-Hardware – PCs, Cyclone II , USB flasher Software – Quartus prime Theory Adders are digital circuits that carry out the addition of numbers.
+Hardware – PCs, Cyclone II , USB flasher 
+
+Software – Quartus prime Theory Adders are digital circuits that carry out the addition of numbers.
 
 **Half Adder**
 
@@ -31,7 +33,7 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-****Procedure
+**Procedure**
 
 **Program: **
 
